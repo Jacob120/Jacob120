@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"  />
 </div>  
   
 
@@ -15,7 +15,7 @@ experience in working with customers. I'm a sociable person with good communicat
 team working abilities.  
   
 
-- 🔭 I’m currently working on [CRM Real Estate project]https://github.com/Jacob120/crm-real-eastate-project) with a group of 4 other developers  
+- 🔭 I’m currently working on [CRM Real Estate project](https://github.com/Jacob120/crm-real-eastate-project) with a group of 4 other developers  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
