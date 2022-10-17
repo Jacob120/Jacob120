@@ -6,13 +6,8 @@
 ### <div align="center">I'm Jacob, a passionate Web Developer from Poland 👨‍💻 </div>  
   
 
-I'm passionate about coding. Always eager to learn new technologies and solutions
-developer who cares about details. Currently working hard on expanding my knowledge in
-web development. I've successfully completed Full-stack Developer Bootcamp that took
-about 800 hours. I am currently working on a project with a team of developers for a housing
-cooperative in which I am responsible for a Front-end. I also have over 10 years of
-experience in working with customers. I'm a sociable person with good communicative and
-team working abilities.  
+I'm passionate about coding. I'm always eager to learn new technologies and solutions.
+I put a lot of care and effort into my projects and I'm detail oriented. I'm currently working hard on expanding my knowledge in web development. I've successfully completed a Full-stack Developer Bootcamp that took about 800 hours. I'm currently working on a personal project with a team of likeminded developers with a housing cooperative in mind, in which I'm responsible for the Front-end.  I  have over 10 years of experience working with customer relations. I'm a sociable person with good communicative and team working abilities. 
   
 
 - 🔭 I’m currently working on [CRM Real Estate project](https://github.com/Jacob120/crm-real-eastate-project) with a group of 4 other developers  
