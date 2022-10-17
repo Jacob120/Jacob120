@@ -79,7 +79,7 @@ I put a lot of care and effort into my projects and I'm detail oriented. I'm cur
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jacob120&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJacob120anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jacob120&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jacob120=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
