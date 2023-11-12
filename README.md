@@ -6,12 +6,8 @@
 ### <div align="center">I'm Jacob, a passionate Web Developer from Poland 👨‍💻 </div>  
   
 
-I'm passionate about coding. I'm always eager to learn new technologies and solutions.
-I put a lot of care and effort into my projects and I'm detail oriented. I'm currently working hard on expanding my knowledge in web development. I've successfully completed a Full-stack Developer Bootcamp that took about 800 hours. I'm currently working on a personal project with a team of likeminded developers with a housing cooperative in mind, in which I'm responsible for the Front-end.  I  have over 10 years of experience working with customer relations. I'm a sociable person with good communicative and team working abilities. 
-  
+Throughout my professional journey, I've had the privilege of evolving in two distinct yet equally enthralling worlds. As a web developer with skills spanning JavaScript, React, Next.js, Node.js, Express, and MongoDB, I constantly strive to hone my craft and broaden my horizons in the IT realm. Currently, I'm working as a full-stack developer, seamlessly blending front-end and back-end into cohesive applications. Prior to this, I spent over a decade as a sales representative, granting me a deep understanding of client needs and the knack for building enduring relationships. I believe that merging technical precision with empathy and hands-on experience in people relations is the key to crafting truly exceptional solutions.
 
-- 🔭 I’m currently working on [CRM Real Estate project](https://github.com/Jacob120/crm-real-eastate-project) with a group of 4 other developers  
-  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
